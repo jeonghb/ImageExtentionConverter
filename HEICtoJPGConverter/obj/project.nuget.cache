@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "N0wZSK/X65U=",
+  "success": true,
+  "projectFilePath": "D:\\ImageExtentionConverter\\HEICtoJPGConverter\\HEICtoJPGConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ashta\\.nuget\\packages\\magick.net-q16-anycpu\\13.10.0\\magick.net-q16-anycpu.13.10.0.nupkg.sha512",
+    "C:\\Users\\ashta\\.nuget\\packages\\magick.net.core\\13.10.0\\magick.net.core.13.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}
